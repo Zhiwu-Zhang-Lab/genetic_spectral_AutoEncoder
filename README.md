@@ -1,2 +1,6 @@
 # genetic_spectral_AutoEncoder
 This repository is for creating auto-encoders easily. The main focus of the auto-encoders on this page is for genetic and spectral data analysis but likely could be used for any high dimensional data
+
+#link to pypi page on project
+https://pypi.org/project/easyAE/
+
